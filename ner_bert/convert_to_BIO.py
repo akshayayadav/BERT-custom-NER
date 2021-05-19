@@ -118,12 +118,9 @@ def process_master_dict(master_dict, entity_tag):
     return master_dict
 
 
-entity_tag = "RCPTR"
-#tagged_ner_df = pd.read_csv(sys.argv[1], sep="\t", header=None)
-#tagged_ner_df = get_cleaned_tagged_ner_df(tagged_ner_df)
 tagged_ner_df = read_oger_ner_output(sys.argv[1])
-#print(tagged_ner_df)
 outfile_file = sys.argv[2]
+entity_tag = sys.argv[3]
 master_dict = process_tagged_ner_df(tagged_ner_df)
 master_dict = process_master_dict(master_dict, entity_tag)
 print_tokenized_sentence_BIO_tagged(master_dict, outfile_file)

@@ -1,0 +1,189 @@
+sent_counts cytochrome_entities
+      1 4-nitrophenol-2-hydroxylase
+      1 7-ethoxyresorufin-o-deethylase
+      1 7-ethoxyresorufin-O-deethylase
+      1 aniline hydroxylase
+      1 coumarin 7-hydroxylase
+      1 CYP) 1A1 protein
+      1 CYP26 family
+      1 cyp3a
+      1 cyp3a4
+      1 Cyp3A4
+      1 CYP 3A4
+      1 CYP450 family
+      1 Cyp4 family
+      1 CYP51 enzymes
+      1 CYP51 family
+      1 Cyp6 family
+      1 Cytochrome-b
+      1 cytochrome f
+      1 cytochrome P450 1A2
+      1 cytochrome p450 2E1
+      1 cytochrome P450 2E1
+      1 cytochrome P-450 (CYP3A4
+      1 cytochrome p450 enzyme
+      1 cytochrome P-450 enzyme
+      1 cytochrome p450 enzymes
+      1 cytochrome P-450 enzymes
+      1 cytochrome p450 monooxygenase
+      1 Cytochrome P450 monooxygenase
+      1 Entity
+      1 ethoxyresorufin-o-deethylase
+      1 ethoxyresorufin O-deethylase
+      1 ethoxyresorufin-O-deethylase
+      1 lauric) acid hydroxylase
+      1 omega-1 hydroxylase
+      1 P450_cam
+      1 taurochenodeoxycholate-6ALPHA-monooxygenase
+      2 11BETA-hydroxylase
+      2 17,20 lyase
+      2 cyp1a1
+      2 Cyp1A1
+      2 CYP) 1A1
+      2 cyp1a2
+      2 CYP)1A2
+      2 CYP1A, 2
+      2 CYP1A/2
+      2 CYP1 enzymes
+      2 Cyp2B6
+      2 CYP 2C19
+      2 CYP 2C9
+      2 cyp3A
+      2 Cyp3A
+      2 CYP 3A
+      2 cyp3A4
+      2 CYP450 superfamily
+      2 CYP4 family
+      2 CYP6 family
+      2 CYP8B1
+      2 Cytochrome-b5
+      2 cytochrome_C
+      2 cytochrome c (1
+      2 cytochrome C (1
+      2 cytochrome c; 2
+      2 cytochrome P 450
+      2 cytochrome-P450
+      2 Cytochrome-P450
+      2 cytochrome P450 2B6
+      2 Cytochrome P450 3A4
+      2 cytochrome P-450 (CYP1B1
+      2 Cytochrome P450 Enzyme
+      2 cytochrome P450 families
+      2 Cytochrome P450 families
+      2 cytochrome P450 monooxygenase
+      2 ferricytochrome c
+      2 omega-hydroxylase
+      2 p450 enzyme
+      2 P-450 enzyme
+      2 p450 enzymes
+      2 P-450 enzymes
+      2 pentoxyresorufin O-dealkylase
+      2 sterol-14ALPHA-demethylase
+      2 Sterol 14ALPHA-demethylase
+      3 alkane hydroxylase
+      3 cytochrome A
+      3 cytochrome b6
+      3 cytochrome d
+      3 erythromycin N-demethylase
+      4 17ALPHA-hydroxylase
+      4 21-hydroxylase
+      4 aldosterone synthase
+      4 Cyp24a1
+      4 CYP) 2D6
+      4 CYP 2E1
+      4 CYP2E_1
+      4 CYP 7
+      4 CYP7A
+      4 CYP 7A
+      4 cytochrome-b
+      4 Cytochrome b5
+      4 Cytochrome b _5
+      4 cytochrome c1
+      4 Cytochrome c1
+      4 Cytochrome P450 2D6
+      4 Cytochrome P450 2E1
+      4 Cytochrome P450 superfamily
+      4 P450 Enzyme
+      4 P450) enzymes
+      5 Cytochrome b
+      5 Cytochrome P450 3A
+      6 apocytochrome c
+      6 cinnamate 4-hydroxylase
+      6 CYP101
+      6 CYP1 family
+      6 Cytochrome p450
+      6 cytochrome P450cam
+      6 sterol 14ALPHA-demethylase
+      7 CYP46
+      7 cytochrome b_6
+      8 CYP 1A2
+      8 CYP24A1
+      8 CYP27B1
+      8 cytochrome c_1
+      9 Cytochrome P450 1A2
+     10 BROD
+     10 cytochrome P450 3A4
+     10 Cytochrome P450 enzyme
+     11 CYP26B1
+     11 cytochrome P450 3A
+     12 CYP 1A1
+     12 CYP7
+     12 cytochrome P450 enzyme
+     13 Cyp3a
+     14 17,20-lyase
+     14 CYP46A1
+     14 cytochrome P-450
+     14 cytochrome P450 superfamily
+     15 EROD
+     16 CYP11B1
+     16 CYP 2D6
+     16 Cyp4a
+     16 cytochrome b 5
+     16 P450cam
+     17 CYP4A
+     18 Cyp1a2
+     20 CYP1A1 protein
+     20 cytochrome-c
+     24 Cyp2e1
+     25 Cytochrome P450 3a
+     25 Cytochrome P450 3a4
+     27 cytochrome B
+     30 Cytochrome C
+     30 cytochrome p450
+     32 Cyp1a1
+     36 CYP2B1
+     38 cytochrome P450 enzymes
+     40 CYP17
+     40 CYP19
+     44 PROD
+     48 cytochrome b5
+     52 cytochrome C
+     52 Cytochrome c
+     60 Cytochrome B
+     64 Cytochrome P450 enzymes
+     67 Cytochrome P450 Enzymes
+     68 CYP11A1
+     68 CYP11B2
+     84 CYP3A5
+     86 Cyp46
+     88 P450 enzyme
+    130 Cyp27b1
+    134 P450 Enzymes
+    136 cytochrome b _5
+    164 cytochrome b_5
+    172 Cyp46a1
+    218 CYP2C8
+    222 cytochrome b
+    292 CYP2B6
+    307 CYP2C19
+    348 P450 enzymes
+    352 CYP2C9
+    444 CYP2E1
+    560 CYP1A1
+    702 cytochrome P450
+    746 CYP1A2
+    879 CYP3A4
+    978 cytochrome c
+   1144 CYP3A
+   1316 Cytochrome P450
+   1520 CYP2D6

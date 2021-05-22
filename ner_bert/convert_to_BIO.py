@@ -67,9 +67,11 @@ def get_BIO_tagged_tokenized_sentence(tokenized_sentence, tokenized_sentence_BIO
             if ne_flag == 1:
                 for j in range(0, len(tokenized_ne)):
                     if j == 0:
-                        tokenized_sentence_BIO_tagged[i + j][1] = 'B-' + entity_tag
+                        #tokenized_sentence_BIO_tagged[i + j][1] = 'B-' + entity_tag
+                        tokenized_sentence_BIO_tagged[i + j][1] = 'B'
                     else:
-                        tokenized_sentence_BIO_tagged[i + j][1] = 'I-' + entity_tag
+                        #tokenized_sentence_BIO_tagged[i + j][1] = 'I-' + entity_tag
+                        tokenized_sentence_BIO_tagged[i + j][1] = 'I'
                 i += len(tokenized_ne)
             else:
                 i += 1

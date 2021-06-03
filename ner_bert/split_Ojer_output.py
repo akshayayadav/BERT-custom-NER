@@ -31,11 +31,10 @@ def print_split_files(split_dict, outfilename):
     outfile.close()
 
 def process_entity_sentence_dict(entity_sentence_dict, entity_count_cutoff):
-    breaks = [0.7, 0.8, 0.9]
+    breaks = [0.8, 0.9]
     train_dict = {}
     test_dict = {}
     devel_dict = {}
-    train_dev_dict = {}
     for entity in entity_sentence_dict:
         entity_count = len(entity_sentence_dict[entity])
         if not entity_count >= entity_count_cutoff:
@@ -44,18 +43,15 @@ def process_entity_sentence_dict(entity_sentence_dict, entity_count_cutoff):
             data_arr = entity_sentence_dict[entity]
             train_break = int(breaks[0] * entity_count)
             test_break = int(breaks[1] * entity_count)
-            devel_break = int(breaks[2] * entity_count)
-            train_dev_break = 1 * entity_count
+            devel_break = int(1 * entity_count)
 
             train_dict[entity] = data_arr[0:train_break]
             test_dict[entity] = data_arr[train_break:test_break]
             devel_dict[entity] = data_arr[test_break:devel_break]
-            train_dev_dict[entity] = data_arr[devel_break:train_dev_break]
 
     print_split_files(train_dict, sys.argv[2])
     print_split_files(test_dict, sys.argv[3])
     print_split_files(devel_dict, sys.argv[4])
-    print_split_files(train_dev_dict, sys.argv[5])
 
 Ojer_output_filename = sys.argv[1]
 entity_sentence_dict = get_entity_sentence_dict(Ojer_output_filename)

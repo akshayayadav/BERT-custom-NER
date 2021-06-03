@@ -1,0 +1,12 @@
+I0602 12:57:07.058680 140374559598400 run_ner.py:572] ***** Eval results *****
+INFO:tensorflow:  eval_f = 0.9361456
+I0602 12:57:07.058774 140374559598400 run_ner.py:574]   eval_f = 0.9361456
+INFO:tensorflow:  eval_precision = 0.91042006
+I0602 12:57:07.058856 140374559598400 run_ner.py:574]   eval_precision = 0.91042006
+INFO:tensorflow:  eval_recall = 0.9641144
+I0602 12:57:07.058913 140374559598400 run_ner.py:574]   eval_recall = 0.9641144
+INFO:tensorflow:  global_step = 1086
+I0602 12:57:07.058969 140374559598400 run_ner.py:574]   global_step = 1086
+INFO:tensorflow:  loss = 9.270555
+I0602 12:57:07.059020 140374559598400 run_ner.py:574]   loss = 9.270555
+

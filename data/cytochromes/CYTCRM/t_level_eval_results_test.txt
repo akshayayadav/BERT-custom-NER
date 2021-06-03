@@ -1,0 +1,12 @@
+I0602 13:12:02.717092 139875482830656 run_ner.py:624] ***** token-level evaluation results *****
+INFO:tensorflow:  eval_f = 0.77180773
+I0602 13:12:02.717167 139875482830656 run_ner.py:626]   eval_f = 0.77180773
+INFO:tensorflow:  eval_precision = 0.71499085
+I0602 13:12:02.717233 139875482830656 run_ner.py:626]   eval_precision = 0.71499085
+INFO:tensorflow:  eval_recall = 0.84325755
+I0602 13:12:02.717297 139875482830656 run_ner.py:626]   eval_recall = 0.84325755
+INFO:tensorflow:  global_step = 1086
+I0602 13:12:02.717361 139875482830656 run_ner.py:626]   global_step = 1086
+INFO:tensorflow:  loss = 38.849148
+I0602 13:12:02.717422 139875482830656 run_ner.py:626]   loss = 38.849148
+
